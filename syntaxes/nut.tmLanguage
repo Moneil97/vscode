@@ -2732,6 +2732,12 @@
 					<key>name</key>
 					<string>keyword.control.include.squirrel</string>
 				</dict>
+                <dict>
+					<key>match</key>
+					<string>[@|#](info|warning|error)</string>
+					<key>name</key>
+					<string>keyword.control.log.builder</string>
+				</dict>
 			</array>
 		</dict>
 		<key>square-brackets</key>
