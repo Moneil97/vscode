@@ -2722,7 +2722,7 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(@)(if|elif|else|end|ifdef|endif|cc_on|set)\b</string>
+					<string>(@)(if|elseif|else|end|ifdef|endif|cc_on|set)\b</string>
 					<key>name</key>
 					<string>keyword.control.conditional.squirrel</string>
 				</dict>
